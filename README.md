@@ -3,7 +3,7 @@
 _Transform Shopping into Seamless, Effortless Experiences_
 
 > Built with the tools and technologies:  
-> ![Java](https://img.shields.io/badge/language-Java-blue) ![XML](https://img.shields.io/badge/Build-Maven-red)  
+> ![Java](https://img.shields.io/badge/language-Java-blue) ![SpringBoot](https://img.shields.io/badge/Backend_Framework-SpringBoot-blue) ![XML](https://img.shields.io/badge/Build-Maven-blue)  ![html](https://img.shields.io/badge/Web-Html-red)  
 
 ---
 
